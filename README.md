@@ -7,7 +7,7 @@
 
 ## Usage example
 
-텐서플로우를 사용한 사물인식 테스트 모듈
+학습된 딥러닝 모델을 
 
 ## Development setup
 
